@@ -1,10 +1,14 @@
+import SectionHadding from "../../Shyerd/SectionHadding/SectionHadding";
+
 const CustomerLoves = () => {
     return (
         <div className=" w-11/12 mx-auto space-y-10">
-            <div className=" text-center space-y-2">
-                <h3 className=" text-4xl font-semibold">Customer Loves</h3>
-                <p className=" text-cyan-400">Popular Product</p>
-            </div>
+            
+            <SectionHadding 
+            hadding={"Customer Loves"}
+            subHadding={"Popular Product"}
+            ></SectionHadding>
+
             <div className=" grid grid-cols-3 gap-5">
             <div className=" space-y-2">
                 <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
