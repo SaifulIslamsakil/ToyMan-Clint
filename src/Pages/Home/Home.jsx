@@ -4,6 +4,7 @@ import CustomerLoves from "../../Components/CustomerLoves/CustomerLoves";
 import CustomerReviw from "../../Components/CustomerReviw/CustomerReviw";
 import Featured from "../../Components/Featured/Featured";
 import FrequentlyQuestions from "../../Components/FrequentlyQuestions/FrequentlyQuestions";
+import PopularInStore from "../../Components/PopularInStore/PopularInStore";
 import TopProducts from "../../Components/TopProducts/TopProducts";
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
             <CustomerLoves></CustomerLoves>
             <TopProducts></TopProducts>
             <AboutUs></AboutUs>
+            <PopularInStore></PopularInStore>
             <CustomerReviw></CustomerReviw>
             <FrequentlyQuestions></FrequentlyQuestions>
         </div>
