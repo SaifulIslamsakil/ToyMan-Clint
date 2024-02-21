@@ -25,7 +25,7 @@ const TopProducts = () => {
                             </div>
                         </div>
                         <div className=" flex items-center gap-5">
-                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/Ld8CYZ7/8.webp" alt="" />
+                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/34bzpvM/12-0a5200ad-0a21-41fe-b979-78d8644cfbad.webp" alt="" />
                             <div>
                                 <h4>Round new rate toy </h4>
                                 <div className="rating rating-sm">
@@ -39,7 +39,7 @@ const TopProducts = () => {
                             </div>
                         </div>
                         <div className=" flex items-center gap-5">
-                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/Ld8CYZ7/8.webp" alt="" />
+                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/10y41dx/7-45c66778-a809-4284-93e9-e8444fbf3c6e.webp" alt="" />
                             <div>
                                 <h4>Round new rate toy </h4>
                                 <div className="rating rating-sm">
@@ -53,7 +53,7 @@ const TopProducts = () => {
                             </div>
                         </div>
                         <div className=" flex items-center gap-5">
-                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/Ld8CYZ7/8.webp" alt="" />
+                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/6DFrH0g/5-e027c36d-cba6-49a2-9011-a5bef839f15b.webp" alt="" />
                             <div>
                                 <h4>Round new rate toy </h4>
                                 <div className="rating rating-sm">
@@ -67,7 +67,7 @@ const TopProducts = () => {
                             </div>
                         </div>
                         <div className=" flex items-center gap-5">
-                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/Ld8CYZ7/8.webp" alt="" />
+                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/MsFnf1R/18.webp" alt="" />
                             <div>
                                 <h4>Round new rate toy </h4>
                                 <div className="rating rating-sm">
@@ -84,7 +84,21 @@ const TopProducts = () => {
                     </div>
                     <div className=" space-y-4">
                         <div className=" flex items-center gap-5">
-                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/Ld8CYZ7/8.webp" alt="" />
+                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/0VQrgfg/3.webp" alt="" />
+                            <div>
+                                <h4>Round new rate toy </h4>
+                                <div className="rating rating-sm">
+                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" />
+                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" checked />
+                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" />
+                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" />
+                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" />
+                                </div>
+                                <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
+                            </div>
+                        </div>
+                        <div className=" flex items-center gap-5">
+                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/34bzpvM/12-0a5200ad-0a21-41fe-b979-78d8644cfbad.webp" alt="" />
                             <div>
                                 <h4>Round new rate toy </h4>
                                 <div className="rating rating-sm">
@@ -112,7 +126,7 @@ const TopProducts = () => {
                             </div>
                         </div>
                         <div className=" flex items-center gap-5">
-                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/Ld8CYZ7/8.webp" alt="" />
+                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/10y41dx/7-45c66778-a809-4284-93e9-e8444fbf3c6e.webp" alt="" />
                             <div>
                                 <h4>Round new rate toy </h4>
                                 <div className="rating rating-sm">
@@ -126,7 +140,7 @@ const TopProducts = () => {
                             </div>
                         </div>
                         <div className=" flex items-center gap-5">
-                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/Ld8CYZ7/8.webp" alt="" />
+                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/6DFrH0g/5-e027c36d-cba6-49a2-9011-a5bef839f15b.webp" alt="" />
                             <div>
                                 <h4>Round new rate toy </h4>
                                 <div className="rating rating-sm">
@@ -140,7 +154,7 @@ const TopProducts = () => {
                             </div>
                         </div>
                         <div className=" flex items-center gap-5">
-                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/Ld8CYZ7/8.webp" alt="" />
+                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/MsFnf1R/18.webp" alt="" />
                             <div>
                                 <h4>Round new rate toy </h4>
                                 <div className="rating rating-sm">

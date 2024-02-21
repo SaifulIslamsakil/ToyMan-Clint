@@ -3,7 +3,7 @@ import SectionHadding from "../../Shyerd/SectionHadding/SectionHadding";
 
 const CustomerReviw = () => {
     return (
-        <div className="  space-y-10 bg-slate-50 py-20">
+        <div className="  space-y-10 bg-slate-50 py-10">
             <SectionHadding
                 hadding={"Customer Saying"}
                 subHadding={"Customer Testimonials"}

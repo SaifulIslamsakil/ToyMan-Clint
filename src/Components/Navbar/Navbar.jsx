@@ -4,6 +4,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { SiShopee } from "react-icons/si";
 import { ImCross } from "react-icons/im";
 import { useState } from "react";
+import logo from "../../assets/nav-logo/logo.avif"
 
 const Navbar = () => {
     const manu = <>
@@ -21,7 +22,7 @@ const Navbar = () => {
                 <p className=" text-white text-center font-semibold">Get 35% off for <Link className=" underline">Summer Collection</Link> - 2024</p>
             </div>
             <div className=" p-5 bg-slate-50 flex justify-around items-center border-b-2 ">
-                <h1 className=" text-cyan-400 font-bold text-4xl">Toy<span className=" text-pink-400">Man</span></h1>
+                <img src={logo} alt="" />
                 <div className=" w-[500px] h-12 border-2 rounded-lg flex items-center">
                     <input className=" w-full h-full rounded-lg border-none outline-none p-3 " type="search" name="" placeholder="Search your favorite Toy..." id="" />
                     <button className=" py-3 px-6 bg-cyan-400 text-white  text-center rounded-r-lg hover:bg-pink-400 ">Search </button>

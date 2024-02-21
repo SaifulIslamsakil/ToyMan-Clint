@@ -5,17 +5,19 @@ import CustomerReviw from "../../Components/CustomerReviw/CustomerReviw";
 import Featured from "../../Components/Featured/Featured";
 import FrequentlyQuestions from "../../Components/FrequentlyQuestions/FrequentlyQuestions";
 import PopularInStore from "../../Components/PopularInStore/PopularInStore";
+import ShopByAge from "../../Components/ShopByAge/ShopByAge";
 import TopProducts from "../../Components/TopProducts/TopProducts";
 
 const Home = () => {
     return (
-        <div className=" space-y-20">
+        <div className="space-y-16">
             <Banner></Banner>
             <Featured></Featured>
+            <ShopByAge></ShopByAge>
+            <PopularInStore></PopularInStore>
             <CustomerLoves></CustomerLoves>
             <TopProducts></TopProducts>
             <AboutUs></AboutUs>
-            <PopularInStore></PopularInStore>
             <CustomerReviw></CustomerReviw>
             <FrequentlyQuestions></FrequentlyQuestions>
         </div>

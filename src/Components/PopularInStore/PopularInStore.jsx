@@ -2,7 +2,7 @@ import SectionHadding from "../../Shyerd/SectionHadding/SectionHadding";
 
 const PopularInStore = () => {
     return (
-        <div className="  space-y-10">
+        <div className="  space-y-10 bg-slate-50 py-10">
             <SectionHadding
                 hadding={"Popular in Store"}
                 subHadding={"Shop ToyMan Toys and Games"}
@@ -10,7 +10,7 @@ const PopularInStore = () => {
 
             <div className=" grid grid-cols-4 gap-5 w-11/12 mx-auto">
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/QXKSg7c/product13-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -22,7 +22,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/7tFrpXp/product14-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -34,7 +34,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/cwfbj4d/product15-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -46,7 +46,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/nwxvnH1/product16-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -58,7 +58,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/SwYtyfL/product12-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -70,7 +70,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/zRTP7yP/product11-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -82,7 +82,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/7C3rS6B/product2-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -94,7 +94,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/XWnc798/product1-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -117,7 +117,7 @@ const PopularInStore = () => {
 
             <div className=" grid grid-cols-4 gap-5 w-11/12 mx-auto">
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/5Fvr40q/product10-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -129,7 +129,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/HqML6Pr/product9-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -141,7 +141,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/mXGgV93/product5-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -153,7 +153,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/Qc9fgMk/product6-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -165,7 +165,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/X8ZDD4S/product7-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -177,7 +177,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/d74Tng0/product8-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -189,7 +189,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/hCd8WfT/product4-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
@@ -201,7 +201,7 @@ const PopularInStore = () => {
                     </div>
                 </div>
                 <div className=" space-y-2">
-                    <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
+                    <img src="https://i.ibb.co/r6f5YWR/product3-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
                     <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                     <div className="rating rating-md">
