@@ -14,7 +14,7 @@ const Navbar = () => {
         <li><Link className="hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Add product</Link></li>
         <li><Link className=" hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Blog</Link></li>
         <li><Link className="hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Contact</Link></li>
-        <li><Link className="hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Register</Link></li>
+        <li><Link to={"/Register"} className="hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Register</Link></li>
     </>
     const [toggel, setToggel] = useState(true)
     return (
