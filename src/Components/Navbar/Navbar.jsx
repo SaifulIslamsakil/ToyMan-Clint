@@ -2,8 +2,6 @@ import { Link } from "react-router-dom";
 import { FaHeadphones } from "react-icons/fa6";
 import { FaAlignRight } from "react-icons/fa";
 import { SiShopee } from "react-icons/si";
-// import { FaUser } from "react-icons/fa6";
-import { ImCross } from "react-icons/im";
 import { useState } from "react";
 import logo from "../../assets/nav-logo/logo.avif"
 import Drawer from "../Drawer/Drawer";
@@ -11,7 +9,8 @@ import Drawer from "../Drawer/Drawer";
 const Navbar = () => {
     const manu = <>
         <li><Link className=" hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400" >Home</Link></li>
-        <li><Link className="hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Add product</Link></li>
+        <li><Link className=" hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400" >Shop</Link></li>
+        <li><Link to={"/AddProducts"} className="hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Add product</Link></li>
         <li><Link className=" hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Blog</Link></li>
         <li><Link className="hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Contact</Link></li>
         <li><Link to={"/Register"} className="hover:bg-sky-400 lg:hover:bg-white hover:text-white p-2 block rounded-lg lg:hover:text-sky-400 hover:border-b-2 hover:border-sky-400">Register</Link></li>
