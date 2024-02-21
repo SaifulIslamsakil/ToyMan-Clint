@@ -13,7 +13,7 @@ const ShopByAge = () => {
             hadding={"Shop By Age"}
             subHadding={"Our Collections"}
             ></SectionHadding>
-            <div className=" grid grid-cols-6 gap-8">
+            <div className=" grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8">
                 <div className=" space-y-4">
                     <img src={category1} alt="" />
                     <p className=" text-center font-semibold text-xl">For Baby</p>

@@ -9,7 +9,7 @@ const CustomerLoves = () => {
             subHadding={"Popular Product"}
             ></SectionHadding>
 
-            <div className=" grid grid-cols-3 gap-5">
+            <div className=" grid md:grid-cols-3 gap-5">
             <div className=" space-y-2">
                 <img src="https://i.ibb.co/yptbLs5/12-a8402b92-2929-4400-9b6f-560ea978ba2b-large.webp" alt="" />
                 <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>

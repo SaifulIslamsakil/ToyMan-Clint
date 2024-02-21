@@ -11,12 +11,11 @@ const FrequentlyQuestions = () => {
                 hadding={"Frequently Questions"}
                 subHadding={"Find your answer from here"}
             ></SectionHadding>
-            <div className=" flex  gap-5">
-
+            <div className=" lg:flex gap-5 space-y-10">
                 <div >
                     <img className=" mx-auto" src="https://i.ibb.co/QcHz2yn/toys-party.webp" alt="" />
                 </div>
-                <div className=" w-1/2">
+                <div className=" lg:w-1/2">
                     <div className="collapse collapse-plus border-b-2  ">
                         <input type="radio" name="my-accordion-3" defaultChecked />
                         <div className="collapse-title text-xl font-medium">
@@ -83,7 +82,7 @@ const FrequentlyQuestions = () => {
 
                 </div>
             </div>
-            <div className=" grid grid-cols-5 gap-5">
+            <div className=" grid grid-cols-2 md:grid-cols-5 gap-5 space-y-5">
                 <div>
                     <img src={patner1} alt="" />
                 </div>
@@ -94,6 +93,9 @@ const FrequentlyQuestions = () => {
                     <img src={patner3} alt="" />
                 </div>
                 <div>
+                    <img src={patner4} alt="" />
+                </div>
+                <div className=" md:hidden">
                     <img src={patner4} alt="" />
                 </div>
                 <div>

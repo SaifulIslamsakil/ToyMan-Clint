@@ -8,7 +8,7 @@ const PopularInStore = () => {
                 subHadding={"Shop ToyMan Toys and Games"}
             ></SectionHadding>
 
-            <div className=" grid grid-cols-4 gap-5 w-11/12 mx-auto">
+            <div className=" grid grid-cols-2 md:grid-cols-4 gap-5 w-11/12 mx-auto">
                 <div className=" space-y-2">
                     <img src="https://i.ibb.co/QXKSg7c/product13-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>
@@ -115,7 +115,7 @@ const PopularInStore = () => {
                 subHadding={"Shop ToyMan Toys and Games"}
             ></SectionHadding>
 
-            <div className=" grid grid-cols-4 gap-5 w-11/12 mx-auto">
+            <div className=" grid grid-cols-2 md:grid-cols-4 gap-5 w-11/12 mx-auto">
                 <div className=" space-y-2">
                     <img src="https://i.ibb.co/5Fvr40q/product10-copyright-630x630.jpg" alt="" />
                     <h4 className=" text-xl font-semibold hover:text-cyan-400">Rainbow Baby Pant</h4>

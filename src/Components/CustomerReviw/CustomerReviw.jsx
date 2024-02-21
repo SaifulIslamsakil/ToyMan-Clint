@@ -9,7 +9,7 @@ const CustomerReviw = () => {
                 subHadding={"Customer Testimonials"}
             ></SectionHadding>
 
-            <div className=" grid grid-cols-3 gap-10 w-11/12 mx-auto py-10 ">
+            <div className=" grid md:grid-cols-2 lg:grid-cols-3 gap-10 w-11/12 mx-auto py-10 ">
                 <div>
                     <div className=" flex items-center  gap-5">
                         <img src="https://i.ibb.co/vk30z4q/review1-100x.png" alt="" />

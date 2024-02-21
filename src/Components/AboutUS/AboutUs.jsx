@@ -3,12 +3,12 @@ import SectionHadding from "../../Shyerd/SectionHadding/SectionHadding";
 
 const AboutUs = () => {
     return (
-        <div className="   py-20 px-10 space-y-10 ">
+        <div className="  lg:py-10 px-10 space-y-10 ">
             <SectionHadding
             hadding={"We make your children happier  with the best toys"}
             subHadding={"About Us"}
             ></SectionHadding>
-            <div className=" grid grid-cols-4 gap-5">
+            <div className=" grid md:grid-cols-2 lg:grid-cols-4 gap-5">
                 <div className=" bg-slate-50 rounded-lg text-center p-10 space-y-5">
                     <img className=" mx-auto " src="https://i.ibb.co/dJKRrzV/srv1-copyright.webp" alt="" />
                     <div className=" space-y-4">

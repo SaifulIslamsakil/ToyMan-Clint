@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="footer p-10 bg-base-200 text-base-content">
                 <div>
                     <img src={logo} alt="" />
-                    <p className=" w-96">A kids toy shop is a store that specializes in selling toys and games designed specifically for children.</p>
+                    <p className=" md:w-96">A kids toy shop is a store that specializes in selling toys and games designed specifically for children.</p>
                     <p>Addresss: 1800 Abbot Kinney Nebraska UK <br />
                         Email: hello@example.com <br />
                         Phone: (012) 345 6789</p>

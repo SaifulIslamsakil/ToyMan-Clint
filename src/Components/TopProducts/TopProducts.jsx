@@ -7,8 +7,8 @@ const TopProducts = () => {
                 hadding={"Top Rated Products"}
                 subHadding={"Our best products"}
             ></SectionHadding>
-            <div className=" flex gap-20 justify-between ">
-                <div className=" flex-1 flex justify-between items-center gap-5">
+            <div className=" lg:flex gap-20 justify-evenly lg:justify-between  space-y-10 ">
+                <div className=" flex-1 md:flex justify-evenly lg:justify-between items-center gap-5">
                     <div className=" space-y-4">
                         <div className=" flex items-center gap-5">
                             <img className=" w-20 rounded-lg " src="https://i.ibb.co/Ld8CYZ7/8.webp" alt="" />
@@ -152,20 +152,7 @@ const TopProducts = () => {
                                 </div>
                                 <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
                             </div>
-                        </div>
-                        <div className=" flex items-center gap-5">
-                            <img className=" w-20 rounded-lg " src="https://i.ibb.co/MsFnf1R/18.webp" alt="" />
-                            <div>
-                                <h4>Round new rate toy </h4>
-                                <div className="rating rating-sm">
-                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" />
-                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" checked />
-                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" />
-                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" />
-                                    <input type="radio" name="rating-7" className="mask mask-star-2 bg-orange-400" />
-                                </div>
-                                <p className=" text-2xl font-semibold text-cyan-400">Tk :- 9500</p>
-                            </div>
+                        
                         </div>
                     </div>
                 </div>
