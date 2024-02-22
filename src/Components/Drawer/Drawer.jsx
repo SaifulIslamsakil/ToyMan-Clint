@@ -3,7 +3,7 @@ import { ImCross } from "react-icons/im";
 
 const Drawer = ({toggel, setToggel, manu}) => {
     return (
-        <div className={`  w-full h-full bg-black bg-opacity-30 absolute top-0 left-0 flex justify-end z-50 ${toggel ? "hidden" : "block"}`}>
+        <div className={`  w-full h-full bg-black bg-opacity-50 absolute top-0 left-0 flex justify-end z-50 ${toggel ? "hidden" : "block"}`}>
             <div className=" h-full w-80 p-10 relative  bg-white  ">
                 <div className=" border-b-2 pb-10 ">
                     <div className=" flex h-12 border-2 justify-between items-center ">

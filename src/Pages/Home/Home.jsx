@@ -2,6 +2,7 @@ import AboutUs from "../../Components/AboutUS/AboutUs";
 import Banner from "../../Components/Banner/Banner";
 import CustomerLoves from "../../Components/CustomerLoves/CustomerLoves";
 import CustomerReviw from "../../Components/CustomerReviw/CustomerReviw";
+import Fassion from "../../Components/Fassion/Fassion";
 import Featured from "../../Components/Featured/Featured";
 import FrequentlyQuestions from "../../Components/FrequentlyQuestions/FrequentlyQuestions";
 import PopularInStore from "../../Components/PopularInStore/PopularInStore";
@@ -12,6 +13,7 @@ const Home = () => {
     return (
         <div className="space-y-16">
             <Banner></Banner>
+            <Fassion></Fassion>
             <Featured></Featured>
             <ShopByAge></ShopByAge>
             <PopularInStore></PopularInStore>
